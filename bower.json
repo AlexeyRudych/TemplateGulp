@@ -1,0 +1,19 @@
+{
+  "name": "MyPortfolio",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "(Alexey <Alexey_Rudych@ukr.net>)"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "app/libs"
+  ],
+  "dependencies": {}
+}
